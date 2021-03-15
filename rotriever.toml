@@ -1,0 +1,6 @@
+[package]
+name = "knit"
+author = "sleitnick"
+content_root = "./src/Knit"
+version = "14.0.0"
+license = "MIT"
